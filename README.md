@@ -1,4 +1,4 @@
-# 🎬 CineBox: Fault-Tolerant, High-Concurrency Movie Ticketing System
+# 🎬 Movie Ticket Booking & Seat Reservation System (CineBox)
 
 [![Live Interactive Showcase](https://img.shields.io/badge/Live_Showcase-GitHub_Pages-0284c7?style=for-the-badge&logo=github)](https://tejashr0716.github.io/cinebox/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
